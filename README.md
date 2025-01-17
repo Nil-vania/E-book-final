@@ -1,18 +1,19 @@
-### Desafio final do Bootcamp Dio x CAIXA - E-book
+### Desafio final do Bootcamp Dio x CAIXA - Podcast
 
-# A Jornada da Sabedoria - Para uma Vida Longa
+# Podcast "Que Ano Foi Esse?"
 
 ## 📒 Descrição
-E-book com orientações básicas para vida direcionada à jovens inspiradas no Livro de Provérbios da Bíblia
+Curiosidades de 1982 apresentadas de forma descontraída e divertida.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)**
 - IA Gerador de Voz **[Elevenlabs.io](https://elevenlabs.io/)**
-- 
+- Editor de Áudio **[CapCut](https://www.capcut.com/my-edit)**
 
 ## 🧐 Processo de Criação
 Usei a técnica FTAE para um prompt assertivo no Chat GPT.
+Useo Elevnlabs para leitura do roteiro por IA.
 Usei o CapCut para colocar trilha sonora e melhorar o som mas não foi possível exportar apenas como áudio.
 
 ## 🚀 Resultados
-**[Link do E-book](https://drive.google.com/file/d/1ebZ7X7-tfIX1w8QZ2zCdINsCaH3CQN8d)** 
+**[Link do Audio](https://drive.google.com/file/d/1bCf20aXjRxjUbFk9PviKJ7i3F9zfDLzH/view?usp=drivesdk)** 
